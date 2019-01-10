@@ -20,7 +20,8 @@
 ### Material 
 
 * Desktop: https://invis.io/QKPWVS3P7A6
-* Mobile: https://invis.io/KUPWVSNC9NR* Tablet e monitores menores: https://invis.io/W3PWVSEEGKF
+* Mobile: https://invis.io/KUPWVSNC9NR
+* Tablet e monitores menores: https://invis.io/W3PWVSEEGKF
 * *OBS*: estas mesmas imagens ficam na pasta "layouts".
 
 ### Atenção
